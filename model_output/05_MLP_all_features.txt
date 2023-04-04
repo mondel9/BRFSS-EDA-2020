@@ -1,0 +1,140 @@
+ --------------------------------------------------------------------------------
+- Trying [1/28]... {'hidden_layer_sizes': 32, 'activation': 'logistic'}
+  Accuracy: 0.708110759279728 
+  F1 score: 0.7211015219633813  ... 0min 9sec for this parameter         (total 0min 9sec)
+
+ --------------------------------------------------------------------------------
+- Trying [2/28]... {'hidden_layer_sizes': 32, 'activation': 'relu'}
+  Accuracy: 0.7183483085407042 
+  F1 score: 0.7322145114706009  ... 0min 22sec for this parameter         (total 0min 31sec)
+
+ --------------------------------------------------------------------------------
+- Trying [3/28]... {'hidden_layer_sizes': 64, 'activation': 'logistic'}
+  Accuracy: 0.7070298886312962 
+  F1 score: 0.7153324006798096  ... 0min 12sec for this parameter         (total 0min 44sec)
+
+ --------------------------------------------------------------------------------
+- Trying [4/28]... {'hidden_layer_sizes': 64, 'activation': 'relu'}
+  Accuracy: 0.7171540604177402 
+  F1 score: 0.7299564959701527  ... 0min 28sec for this parameter         (total 1min 12sec)
+
+ --------------------------------------------------------------------------------
+- Trying [5/28]... {'hidden_layer_sizes': 128, 'activation': 'logistic'}
+  Accuracy: 0.7085655307246487 
+  F1 score: 0.716253513122488  ... 0min 11sec for this parameter         (total 1min 24sec)
+
+ --------------------------------------------------------------------------------
+- Trying [6/28]... {'hidden_layer_sizes': 128, 'activation': 'relu'}
+  Accuracy: 0.7143100810851113 
+  F1 score: 0.7278240281575286  ... 0min 50sec for this parameter         (total 2min 14sec)
+
+ --------------------------------------------------------------------------------
+- Trying [7/28]... {'hidden_layer_sizes': 256, 'activation': 'logistic'}
+  Accuracy: 0.7067457333031856 
+  F1 score: 0.712637689031917  ... 0min 15sec for this parameter         (total 2min 29sec)
+
+ --------------------------------------------------------------------------------
+- Trying [8/28]... {'hidden_layer_sizes': 256, 'activation': 'relu'}
+  Accuracy: 0.713513559848912 
+  F1 score: 0.7269636523147565  ... 1min 14sec for this parameter         (total 3min 44sec)
+
+ --------------------------------------------------------------------------------
+- Trying [9/28]... {'hidden_layer_sizes': (32, 32), 'activation': 'logistic'}
+  Accuracy: 0.711067647050261 
+  F1 score: 0.7265580566935678  ... 0min 29sec for this parameter         (total 4min 14sec)
+
+ --------------------------------------------------------------------------------
+- Trying [10/28]... {'hidden_layer_sizes': (32, 32), 'activation': 'relu'}
+  Accuracy: 0.7157889373991368 
+  F1 score: 0.7335615923205541  ... 0min 29sec for this parameter         (total 4min 43sec)
+
+ --------------------------------------------------------------------------------
+- Trying [11/28]... {'hidden_layer_sizes': (64, 64), 'activation': 'logistic'}
+  Accuracy: 0.7088502359577713 
+  F1 score: 0.724053842755646  ... 0min 18sec for this parameter         (total 5min 1sec)
+
+ --------------------------------------------------------------------------------
+- Trying [12/28]... {'hidden_layer_sizes': (64, 64), 'activation': 'relu'}
+  Accuracy: 0.7064606884228498 
+  F1 score: 0.7254719667429872  ... 1min 48sec for this parameter         (total 6min 50sec)
+
+ --------------------------------------------------------------------------------
+- Trying [13/28]... {'hidden_layer_sizes': (128, 128), 'activation': 'logistic'}
+  Accuracy: 0.7082246543119185 
+  F1 score: 0.730164058015282  ... 0min 31sec for this parameter         (total 7min 22sec)
+
+ --------------------------------------------------------------------------------
+- Trying [14/28]... {'hidden_layer_sizes': (128, 128), 'activation': 'relu'}
+  Accuracy: 0.6896826336439004 
+  F1 score: 0.6983236517003087  ... 4min 49sec for this parameter         (total 12min 11sec)
+
+ --------------------------------------------------------------------------------
+- Trying [15/28]... {'hidden_layer_sizes': (256, 256), 'activation': 'logistic'}
+  Accuracy: 0.7069159774254289 
+  F1 score: 0.7204489777129636  ... 0min 49sec for this parameter         (total 13min 1sec)
+
+ --------------------------------------------------------------------------------
+- Trying [16/28]... {'hidden_layer_sizes': (256, 256), 'activation': 'relu'}
+  Accuracy: 0.6729040774809693 
+  F1 score: 0.6765341309564005  ... 16min 21sec for this parameter         (total 29min 23sec)
+
+ --------------------------------------------------------------------------------
+- Trying [17/28]... {'hidden_layer_sizes': (32, 32, 32), 'activation': 'logistic'}
+  Accuracy: 0.7083950763446067 
+  F1 score: 0.726986582313036  ... 0min 14sec for this parameter         (total 29min 37sec)
+
+ --------------------------------------------------------------------------------
+- Trying [18/28]... {'hidden_layer_sizes': (32, 32, 32), 'activation': 'relu'}
+  Accuracy: 0.7060626218888719 
+  F1 score: 0.7208576750484685  ... 1min 52sec for this parameter         (total 31min 30sec)
+
+ --------------------------------------------------------------------------------
+- Trying [19/28]... {'hidden_layer_sizes': (64, 64, 64), 'activation': 'logistic'}
+  Accuracy: 0.7072008605689964 
+  F1 score: 0.7175694732402343  ... 0min 20sec for this parameter         (total 31min 51sec)
+
+ --------------------------------------------------------------------------------
+- Trying [20/28]... {'hidden_layer_sizes': (64, 64, 64), 'activation': 'relu'}
+  Accuracy: 0.6931513859385406 
+  F1 score: 0.7065167076802086  ... 3min 38sec for this parameter         (total 35min 30sec)
+
+ --------------------------------------------------------------------------------
+- Trying [21/28]... {'hidden_layer_sizes': (128, 128, 128), 'activation': 'logistic'}
+  Accuracy: 0.7090774761171401 
+  F1 score: 0.729001742132389  ... 0min 37sec for this parameter         (total 36min 7sec)
+
+ --------------------------------------------------------------------------------
+- Trying [22/28]... {'hidden_layer_sizes': (128, 128, 128), 'activation': 'relu'}
+  Accuracy: 0.6710279309694533 
+  F1 score: 0.6697262663259415  ... 5min 7sec for this parameter         (total 41min 15sec)
+
+ --------------------------------------------------------------------------------
+- Trying [23/28]... {'hidden_layer_sizes': (32, 32, 32, 32), 'activation': 'logistic'}
+  Accuracy: 0.7087933046153528 
+  F1 score: 0.722640764687145  ... 0min 19sec for this parameter         (total 41min 34sec)
+
+ --------------------------------------------------------------------------------
+- Trying [24/28]... {'hidden_layer_sizes': (32, 32, 32, 32), 'activation': 'relu'}
+  Accuracy: 0.6937206023206638 
+  F1 score: 0.7029551664955581  ... 3min 26sec for this parameter         (total 45min 1sec)
+
+ --------------------------------------------------------------------------------
+- Trying [25/28]... {'hidden_layer_sizes': (64, 64, 64, 64), 'activation': 'logistic'}
+  Accuracy: 0.7097029768946087 
+  F1 score: 0.7337302011820823  ... 0min 21sec for this parameter         (total 45min 23sec)
+
+ --------------------------------------------------------------------------------
+- Trying [26/28]... {'hidden_layer_sizes': (64, 64, 64, 64), 'activation': 'relu'}
+  Accuracy: 0.6792166311977934 
+  F1 score: 0.6793917584463289  ... 4min 39sec for this parameter         (total 50min 3sec)
+
+ --------------------------------------------------------------------------------
+- Trying [27/28]... {'hidden_layer_sizes': (128, 128, 128, 128), 'activation': 'logistic'}
+  Accuracy: 0.7075415590712816 
+  F1 score: 0.7227226788290467  ... 0min 38sec for this parameter         (total 50min 42sec)
+
+ --------------------------------------------------------------------------------
+- Trying [28/28]... {'hidden_layer_sizes': (128, 128, 128, 128), 'activation': 'relu'}
+  Accuracy: 0.6738708104920583 
+  F1 score: 0.6765486969261836  ... 5min 53sec for this parameter         (total 56min 35sec)
+

@@ -1,0 +1,44 @@
+--------------------------------------------------------------------------------
+- Trying [1/9]... {'C': 1.0}
+  Accuracy: 0.7073142703908821 
+  F1 score: 0.7123303346709436  ... 0min 0sec for this parameter         (total 0min 0sec)
+
+ --------------------------------------------------------------------------------
+- Trying [2/9]... {'C': 0.5}
+  Accuracy: 0.7071436866214257 
+  F1 score: 0.7121480512091675  ... 0min 0sec for this parameter         (total 0min 0sec)
+
+ --------------------------------------------------------------------------------
+- Trying [3/9]... {'C': 0.1}
+  Accuracy: 0.707029904804973 
+  F1 score: 0.7117444822191487  ... 0min 0sec for this parameter         (total 0min 0sec)
+
+ --------------------------------------------------------------------------------
+- Trying [4/9]... {'solver': 'liblinear', 'penalty': 'l1', 'C': 1.0}
+  Accuracy: 0.7076555187981795 
+  F1 score: 0.7127949440980739  ... 0min 0sec for this parameter         (total 0min 0sec)
+
+ --------------------------------------------------------------------------------
+- Trying [5/9]... {'solver': 'liblinear', 'penalty': 'l1', 'C': 0.5}
+  Accuracy: 0.707541801676434 
+  F1 score: 0.7126813539037047  ... 0min 0sec for this parameter         (total 0min 1sec)
+
+ --------------------------------------------------------------------------------
+- Trying [6/9]... {'solver': 'liblinear', 'penalty': 'l1', 'C': 0.1}
+  Accuracy: 0.7073711532122701 
+  F1 score: 0.7124280508283605  ... 0min 0sec for this parameter         (total 0min 1sec)
+
+ --------------------------------------------------------------------------------
+- Trying [7/9]... {'solver': 'liblinear', 'penalty': 'l2', 'C': 1.0}
+  Accuracy: 0.7073711370385933 
+  F1 score: 0.7124014396120227  ... 0min 0sec for this parameter         (total 0min 1sec)
+
+ --------------------------------------------------------------------------------
+- Trying [8/9]... {'solver': 'liblinear', 'penalty': 'l2', 'C': 0.5}
+  Accuracy: 0.706973021983585 
+  F1 score: 0.7117509545909991  ... 0min 0sec for this parameter         (total 0min 1sec)
+
+ --------------------------------------------------------------------------------
+- Trying [9/9]... {'solver': 'liblinear', 'penalty': 'l2', 'C': 0.1}
+  Accuracy: 0.7060632041412376 
+  F1 score: 0.710343446773602  ... 0min 0sec for this parameter         (total 0min 1sec)

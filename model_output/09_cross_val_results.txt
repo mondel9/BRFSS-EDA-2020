@@ -1,0 +1,71 @@
+SVC results: all features =========================
+  best accuracy: 0.7106702598107099
+     {'C': 10, 'kernel': 'rbf'}
+- best f1-score: 0.7305523946106554
+     {'C': 10, 'kernel': 'rbf'}
+- best average : 0.7206113272106827
+     {'C': 10, 'kernel': 'rbf'}
+===================================================
+
+SVC results: select features ======================
+  best accuracy: 0.7106702598107099
+     {'C': 10, 'kernel': 'rbf'}
+- best f1-score: 0.7305523946106554
+     {'C': 10, 'kernel': 'rbf'}
+- best average : 0.7206113272106827
+     {'C': 10, 'kernel': 'rbf'}
+===================================================
+
+Logistic Regression results: all features =========
+  best accuracy: 0.7076555187981795
+     {'solver': 'liblinear', 'penalty': 'l1', 'C': 1.0}
+- best f1-score: 0.7127949440980739
+     {'solver': 'liblinear', 'penalty': 'l1', 'C': 1.0}
+- best average : 0.7102252314481267
+     {'solver': 'liblinear', 'penalty': 'l1', 'C': 1.0}
+===================================================
+
+Logistic Regression results: select features ======
+  best accuracy: 0.7003188478648967
+     {'solver': 'liblinear', 'penalty': 'l1', 'C': 0.5}
+- best f1-score: 0.7070469286395221
+     {'solver': 'liblinear', 'penalty': 'l1', 'C': 0.1}
+- best average : 0.7032800793894503
+     {'solver': 'liblinear', 'penalty': 'l1', 'C': 0.5}
+===================================================
+
+MLP results: all features =========================
+  best accuracy: 0.7183483085407042
+     {'hidden_layer_sizes': 32, 'activation': 'relu'}
+- best f1-score: 0.7337302011820823
+     {'hidden_layer_sizes': (64, 64, 64, 64), 'activation': 'logistic'}
+- best average : 0.7252814100056526
+     {'hidden_layer_sizes': 32, 'activation': 'relu'}
+===================================================
+
+MLP results: select features ======================
+  best accuracy: 0.7171539957230328
+     {'hidden_layer_sizes': 64, 'activation': 'relu'}
+- best f1-score: 0.7381813479500264
+     {'hidden_layer_sizes': 128, 'activation': 'relu'}
+- best average : 0.7271841112468633
+     {'hidden_layer_sizes': 128, 'activation': 'relu'}
+===================================================
+
+AdaBoost results: all features ====================
+  best accuracy: 0.7161301372854035
+     {'n_estimators': 50, 'learning_rate': 1}
+- best f1-score: 0.7201394763880843
+     {'n_estimators': 50, 'learning_rate': 1}
+- best average : 0.7181348068367439
+     {'n_estimators': 50, 'learning_rate': 1}
+===================================================
+
+AdaBoost results: select features =================
+  best accuracy: 0.7139691884987044
+     {'n_estimators': 50, 'learning_rate': 1}
+- best f1-score: 0.7216127276616755
+     {'n_estimators': 50, 'learning_rate': 0.1}
+- best average : 0.7169287965752001
+     {'n_estimators': 100, 'learning_rate': 1}
+===================================================

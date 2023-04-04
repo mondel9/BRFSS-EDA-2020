@@ -7,6 +7,6 @@ Dataset converted from ASCII to csv format found on [Kaggle](https://www.kaggle.
 ### Purpose  
 The aim of this analysis is to compare different models' accuracy when predicting a stroke based on key health factors. 
 
-This analysis is an adaptation of an analysis by user JOngH on [Kaggle](https://www.kaggle.com/code/jongheonjeong/diabetes-eda-featureselection-conclusion). This analysis was performed on the 2015 BRFSS Survey Data and was focused on diabetes prediction. I decided to perform a similar analysis to see how well newer data would perform for stroke prediction.
+This analysis is an adaptation of an analysis by user JOngH on [Kaggle](https://www.kaggle.com/code/jongheonjeong/diabetes-eda-featureselection-conclusion). Their analysis was performed on the 2015 BRFSS Survey Data and was focused on diabetes prediction. I decided to perform a similar analysis to see how well newer data would perform for stroke prediction.
 
 

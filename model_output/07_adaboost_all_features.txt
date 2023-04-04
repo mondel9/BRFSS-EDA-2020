@@ -1,0 +1,60 @@
+ --------------------------------------------------------------------------------
+- Trying [1/12]... {'n_estimators': 50, 'learning_rate': 0.1}
+  Accuracy: 0.7050965358248559 
+  F1 score: 0.716859921755953  ... 0min 2sec for this parameter         (total 0min 2sec)
+
+ --------------------------------------------------------------------------------
+- Trying [2/12]... {'n_estimators': 50, 'learning_rate': 1}
+  Accuracy: 0.7161301372854035 
+  F1 score: 0.7201394763880843  ... 0min 2sec for this parameter         (total 0min 4sec)
+
+ --------------------------------------------------------------------------------
+- Trying [3/12]... {'n_estimators': 50, 'learning_rate': 10}
+  Accuracy: 0.6577179815380714 
+  F1 score: 0.7130113093956773  ... 0min 2sec for this parameter         (total 0min 6sec)
+
+ --------------------------------------------------------------------------------
+- Trying [4/12]... {'n_estimators': 100, 'learning_rate': 0.1}
+  Accuracy: 0.7113525948885359 
+  F1 score: 0.7178031246509966  ... 0min 4sec for this parameter         (total 0min 11sec)
+
+ --------------------------------------------------------------------------------
+- Trying [5/12]... {'n_estimators': 100, 'learning_rate': 1}
+  Accuracy: 0.7151632748849 
+  F1 score: 0.7192567343225809  ... 0min 4sec for this parameter         (total 0min 15sec)
+
+ --------------------------------------------------------------------------------
+- Trying [6/12]... {'n_estimators': 100, 'learning_rate': 10}
+  Accuracy: 0.6577179815380714 
+  F1 score: 0.7130113093956773  ... 0min 4sec for this parameter         (total 0min 20sec)
+
+ --------------------------------------------------------------------------------
+- Trying [7/12]... {'n_estimators': 200, 'learning_rate': 0.1}
+  Accuracy: 0.7116940535536318 
+  F1 score: 0.7164763893210804  ... 0min 8sec for this parameter         (total 0min 29sec)
+
+ --------------------------------------------------------------------------------
+- Trying [8/12]... {'n_estimators': 200, 'learning_rate': 1}
+  Accuracy: 0.7146514427081463 
+  F1 score: 0.7189834635190949  ... 0min 8sec for this parameter         (total 0min 38sec)
+
+ --------------------------------------------------------------------------------
+- Trying [9/12]... {'n_estimators': 200, 'learning_rate': 10}
+  Accuracy: 0.6577179815380714 
+  F1 score: 0.7130113093956773  ... 0min 9sec for this parameter         (total 0min 47sec)
+
+ --------------------------------------------------------------------------------
+- Trying [10/12]... {'n_estimators': 500, 'learning_rate': 0.1}
+  Accuracy: 0.7146514103607926 
+  F1 score: 0.7197600847857071  ... 0min 22sec for this parameter         (total 1min 9sec)
+
+ --------------------------------------------------------------------------------
+- Trying [11/12]... {'n_estimators': 500, 'learning_rate': 1}
+  Accuracy: 0.7137983621240954 
+  F1 score: 0.7178105786905276  ... 0min 22sec for this parameter         (total 1min 31sec)
+
+ --------------------------------------------------------------------------------
+- Trying [12/12]... {'n_estimators': 500, 'learning_rate': 10}
+  Accuracy: 0.6577179815380714 
+  F1 score: 0.7130113093956773  ... 0min 22sec for this parameter         (total 1min 54sec)
+
